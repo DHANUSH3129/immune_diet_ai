@@ -161,7 +161,6 @@ MCA Student | Flutter Developer | AI App Enthusiast
 
 ## ❤️ Built With
 
-Flutter • Firebase • Claude AI
-
+Flutter • Firebase 
 ```
 ```
